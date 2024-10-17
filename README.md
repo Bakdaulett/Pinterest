@@ -8,6 +8,7 @@
 - MinIO
 - Swagger for API documentation
 
+#### Running
  Run the application:
     go run cmd/main.go
 
